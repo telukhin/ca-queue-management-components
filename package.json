@@ -6,10 +6,19 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "3.4.1",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "@atlaskit/button": "^16.3.3",
+    "@atlaskit/checkbox": "^12.3.15",
+    "@atlaskit/form": "^8.5.5",
+    "@atlaskit/modal-dialog": "^12.2.13",
+    "@atlaskit/radio": "^5.3.11",
+    "@atlaskit/select": "^15.3.2",
+    "@atlaskit/textfield": "^5.1.12"
   },
   "scripts": {
     "start": "react-scripts start",
